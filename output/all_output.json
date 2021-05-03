@@ -1,0 +1,71 @@
+[
+    {
+        "assignments": [
+            {
+                "submission": {
+                    "grade": "100%"
+                },
+                "title": "Assignment 1",
+                "description": "",
+                "assigned_date": "May 01, 2021 05:56 AM",
+                "due_date": "May 08, 2021 05:59 AM"
+            },
+            {
+                "submission": {
+                    "grade": "None"
+                },
+                "title": "Assignment 2",
+                "description": "",
+                "assigned_date": "May 01, 2021 05:23 AM",
+                "due_date": "May 04, 2021 05:59 AM"
+            }
+        ],
+        "announcements": [
+            {
+                "title": "Announcement 2",
+                "posted_date": "May 02, 2021 02:09 AM",
+                "body": "<p>Please submit assignment 2 HAMZA NEEL RINAY WRICHIEK TEST 1234!</p>"
+            },
+            {
+                "title": "Announcement 1",
+                "posted_date": "May 02, 2021 02:08 AM",
+                "body": "<p>Please submit assignment 1.</p>"
+            }
+        ],
+        "discussions": [
+            {
+                "title": "Discussion 2",
+                "posted_date": "May 02, 2021 02:10 AM",
+                "body": "<p>Discuss Assignment 2</p>"
+            },
+            {
+                "title": "Discussion 1",
+                "posted_date": "May 02, 2021 02:10 AM",
+                "body": "<p>Discuss Assignment 1</p>"
+            }
+        ],
+        "term": "Default Term",
+        "course_code": "CPS100",
+        "name": "CPS100",
+        "modules": [
+            {
+                "items": [
+                    {
+                        "title": "CGEO793 Lecture 1.pdf",
+                        "content_type": "File"
+                    }
+                ],
+                "name": "Lecture 1"
+            },
+            {
+                "items": [
+                    {
+                        "title": "YouthCentral_CoverLetter_WorkExperience_March-27-2017.pdf",
+                        "content_type": "File"
+                    }
+                ],
+                "name": "Lecture 2"
+            }
+        ]
+    }
+]
