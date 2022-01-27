@@ -41,9 +41,6 @@ EDUBot
 * Elevator pitch 
 Educational platforms like E-learning, D2L and Canvas are not the best and complicated as heck, especially if you want to find some lectures or assignments! Don’t you wish you could just ask and receive?? Well now you can! Thanks to EDUBot you can literally ask “Where is the section on magnetic flux” and EDUBot will find it for you from all the available content for the course, including your prof’s hand written notes! EDUBot also has the ability to pull your grades, assignments, announcements, and discussion posts!
 
-* About the project
-Be sure to write what inspired you, what you learned, how you built your project, and the challenges you faced. Format your story in Markdown.
-
 ## Inspiration 
 - Engineering is hard. Profs post 50- 80 page ppts a week and it's very difficult and time consuming to look through it all. As an engineering student, we do not have time to skim through everything everytime we want to study a specific topic. EDUBot can help with that :) 
 
